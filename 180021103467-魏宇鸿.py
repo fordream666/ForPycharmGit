@@ -1,5 +1,0 @@
-number=input()
-loc,div=input().split(',')
-loc=eval(loc)
-div=eval(div)
-print("{}/{}={:.2f}".format(number[loc],div,number[loc]/div))
